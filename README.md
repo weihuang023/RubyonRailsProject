@@ -4,6 +4,7 @@
 1. Design a personal website
 2. Explore personal hobby
 3. Making connection with other people
+4. [First Design](https://github.com/weihuang023/Erlang-Projects/blob/master/CheatSheet.jpg) 
 
 ## Requirement 
 * User has introducation of himself 
