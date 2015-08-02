@@ -1,5 +1,5 @@
 # RubyonRailsProject
-[First Design]() 
+[First Design](https://github.com/weihuang023/RubyonRailsProject/blob/master/FirstDesign.JPG) 
 ## Design ideal
 1. Design a personal website
 2. Explore personal hobby
