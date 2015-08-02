@@ -1,8 +1,35 @@
 # RubyonRailsProject
 
-## Design
-> Design a personal website and explore personal hobby 
-> Making a connection with other people 
+## Design ideal
+1. Design a personal website
+2. Explore personal hobby
+3. Making connection with other people
+
+## Requirement 
+* User has introducation of himself 
+* User has a list of classes has taken
+* Description for each classes
+* Translate between different language
+* Picture Profile Page
+* Backgroud Picture Design
+* 3 Tab then swith different page
+* Mutiple personal link 
+
+
+
+## Plan
+* 1 week Project
+* 3 different pages
+
+## Data Creatation
+1. Personal skill
+2. Personal picture
+3. Personal certification
+
+## Excution
+1. Users acceptance testing
+2. Function testing
+
 
 
 ## July 29, 2015
