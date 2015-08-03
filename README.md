@@ -14,7 +14,8 @@
 * Picture Profile Page
 * Backgroud Picture Design
 * 3 Tab then swith different page
-* Mutiple personal link 
+* Mutiple personal link
+* add the webpage on the google search
 
 
 
@@ -45,3 +46,7 @@
 * Update "myapp" application
 * Free heroku server and Free database with heroku postgres
 * 18 hrs Server Duration time and 30 mins inactivity Sleeping
+
+## Aug 3, 2015
+* Add the property in the google search
+
